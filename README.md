@@ -20,5 +20,15 @@ The classes page must have:
 
 The classes page should have at least 5 entries, and use tables that has been adorned with Bootstrap.
 
-The student page 
+The student page should have:
+- a list of enrolled classes for three semesters, including the current semester
+- a transcript
+    - courses taken
+    - grades
+- and their overall GPA
+
+
+Use Bootstrap and make it look good!
+Using carousel, cards, and jumbotrons are recommended.
+Submit one link for the group.
 
